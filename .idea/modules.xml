@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/4.2_Complex_Lifecycle_Situations.iml" filepath="$PROJECT_DIR$/.idea/modules/4.2_Complex_Lifecycle_Situations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/4.2_Complex_Lifecycle_Situations.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
